@@ -19,6 +19,6 @@ Die wichtigsten Merkmale sind:
 - Beschleunigte Fließkomma-Bibliotheken auf dem Chip
 - 8x programmierbare E/A-Zustandsautomaten (PIO) für kundenspezifische Peripherieunterstützung
 
-Von Pimoroni have ich das Pico Display Pack eingesetzt. Hierzu gibt es von Pimoroni eine eigene Firmware.
+Von Pimoroni habe ich das Pico Display Pack eingesetzt. Hierzu gibt es von Pimoroni eine eigene Firmware.
 
 ![alt text](https://cdn.shopify.com/s/files/1/0174/1800/products/pico-addons-3_1024x1024.jpg "Pimoroni Display Pack")
