@@ -1,3 +1,5 @@
+# Based on https://randomnerdtutorials.com/micropython-bme280-esp32-esp8266/
+
 from machine import I2C
 import time
 
