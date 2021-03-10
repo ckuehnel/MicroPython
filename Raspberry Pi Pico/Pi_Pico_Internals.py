@@ -9,7 +9,6 @@ from machine import Pin
 import sys, uos, ubinascii
 
 def tick(timer):
-    global led
     led.toggle()
 
 led = Pin(25, Pin.OUT) # green LED on Pi Pico
