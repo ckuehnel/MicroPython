@@ -1,4 +1,4 @@
-# RaspberryPiPico_internals.py
+# Pi_Pico_Internals.py
 # This sample program shows some information
 # and uses some on-board resources to illustrate their query
 # (c) 2021-03-09 Claus Kuehnel (info@ckuehnel.ch)
