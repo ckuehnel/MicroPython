@@ -4,7 +4,7 @@
 # based on https://github.com/alexmrqt/micropython-sgp30
 # 2021-03-11 Claus Kühnel info@ckuehnel.ch
 
-import machine, time, uos #, sys
+import machine, time, uos
 from machine import Pin, I2C
 import adafruit_sgp30
 import picodisplay as display
