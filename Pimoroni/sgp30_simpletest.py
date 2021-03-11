@@ -1,5 +1,7 @@
 # sgp30_simpletest.py
 # https://github.com/alexmrqt/micropython-sgp30
+# adaption to the I2C bus of Raspberry Pi Pico by
+# 2021-03-11 Claus Kühnel info@ckuehnel.ch
 
 """
 Example for using the SGP30 with MicroPython and the Adafruit library.
