@@ -90,7 +90,7 @@ while True:
     display.text(txt,10, 10, width, 3)
     txt = 'eCO2: {} ppm'.format(co2eq)
     display.text(txt,10, 60, width, 3)
-    txt = 'TVOC: {} ppm'.format(tvoc)
+    txt = 'TVOC: {} ppb'.format(tvoc)
     display.text(txt,10, 90, width, 3)
     showLED(co2eq)
     display.update()
