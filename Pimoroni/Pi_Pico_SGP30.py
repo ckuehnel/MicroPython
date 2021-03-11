@@ -1,6 +1,7 @@
 # Pi_Pico_SGP30.py
 # Measuring air quality by Sensirion SGP30 and display
 # results on Pimoroni Pico Display
+# based on https://github.com/alexmrqt/micropython-sgp30
 # 2021-03-11 Claus Kühnel info@ckuehnel.ch
 
 import machine, time, uos #, sys
