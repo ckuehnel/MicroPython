@@ -6,10 +6,9 @@ from machine import Pin
 import rp2
  
 # Configure the number of WS2812 LEDs, pins and brightness.
-NUM_LEDS = 7
+NUM_LEDS = 3
 PIN_NUM = 16
 brightness = 0.1
- 
  
 @rp2.asm_pio(sideset_init=rp2.PIO.OUT_LOW, out_shiftdir=rp2.PIO.SHIFT_LEFT, autopull=True, pull_thresh=24)
 def ws2812():
