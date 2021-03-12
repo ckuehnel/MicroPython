@@ -1,5 +1,5 @@
 # Pi_Pico_Neopixel.py
-# Controlling Neopixel by PIO
+# Controlling Neopixel by PIO to simulate a traffic light
 # based on http://www.pibits.net/code/raspberry-pi-pico-and-neopixel-example-in-micropython.php
 
 import array, time
