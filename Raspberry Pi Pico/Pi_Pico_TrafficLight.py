@@ -6,7 +6,7 @@
 import time
 import ws2812b
 
-NUM_PIX = 3  # thsi is for M5Stack RGB LED
+NUM_PIX = 3  # this is for M5Stack RGB LED
 PIN_NUM = 16
 light = ws2812b.ws2812b(NUM_PIX, 0, PIN_NUM)
 
