@@ -24,7 +24,7 @@ def lights(L0, L1, L2, t):
     color = L2
     light.set_pixel(2, color[0], color[1], color[2])
     light.show()
-    time.sleep(3)
+    time.sleep(t)
 
 while True:
     lights(RED, BLACK, BLACK, 2)
