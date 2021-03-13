@@ -32,7 +32,7 @@ sm.irq(lambda p: print('Time {} sec'.format(time.ticks_ms()/1000)))
 
 # Start the StateMachine.
 sm.active(1)
-
+# Run it for 10 seconds
 time.sleep(10)
-
+# Stop the State Machine
 sm.active(0)
