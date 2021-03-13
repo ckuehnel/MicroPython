@@ -66,7 +66,7 @@ RED = (255, 0, 0)
 YELLOW = (255, 150, 0)
 GREEN = (0, 255, 0)
  
-while True:
+while True:      # Traffic light sequence
     lights(RED, BLACK, BLACK, 3)
     lights(RED, YELLOW, BLACK, 1)
     lights(BLACK, BLACK, GREEN, 3)
