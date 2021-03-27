@@ -1,7 +1,8 @@
 '''
-File: battery.py
+File:  bme280.py
+needs: bme280_float.py
 
-Gets voltage of OxoCard battery and controls an indicator Neopixel
+OxoCard Thermometer reads BME280 sensor and display measured temperature on matrix display
 2021-03-27 Claus Kühnel info@ckuehnel.ch
 '''
 from oxocard import *
