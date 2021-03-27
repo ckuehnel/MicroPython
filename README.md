@@ -1,6 +1,6 @@
 # MicroPython
 
-Hier werden MicroPython Programmbeispiele für MaixPy, Rasperry Pi Pico und OXOCard abgelegt.
+Hier werden MicroPython Programmbeispiele für MaixPy, Rasperry Pi Pico und OXOCard abgelegt.    
 Programmbeispiele für PyBoard, STM32 und ESP32 sind in separaten Repositories zu finden:
 
 PyBoard - https://github.com/ckuehnel/MicroPython-on-PYB   
