@@ -50,7 +50,7 @@ while i > 0:
     time.sleep_ms(500)
         
 # Retrieve previously stored baselines, if any (helps the compensation algorithm).
-has_baseline = False
+has_baseline = Falsetime.sleep(10)
 try:
     f_co2 = open('co2eq_baseline.txt', 'r')
     f_tvoc = open('tvoc_baseline.txt', 'r')
