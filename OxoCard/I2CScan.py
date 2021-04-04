@@ -1,7 +1,8 @@
 '''
 File:  I2CScan.py
+needs: machine, oxocard
 
-Scans I2C bus of OxoCard and prints conencted devices
+Scans I2C bus of OxoCard and prints connected devices
 2021-03-27 Claus Kühnel info@ckuehnel.ch
 '''
 from oxocard import *

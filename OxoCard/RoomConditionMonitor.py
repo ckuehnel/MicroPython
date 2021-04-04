@@ -55,7 +55,7 @@ def readSHT30():
     oled.text('Temp = ' + str(temp) + ' *C', 0, 12)
     oled.text('Humi = ' + str(humi) + ' %rH', 0, 24)
 
-#LED pattern for as air quality indicator
+#LED pattern for air quality indicator
 def showLED(val):
     if val < 800:
         fillRectangle(3, 3, 2, 2, GREEN)
