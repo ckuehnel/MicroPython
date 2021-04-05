@@ -18,9 +18,7 @@ def blink():
     if (i % 2):
         dot(3,3, BLUE)
     else:
-        dot(3,3 ,BLACK)
-    time.sleep_ms(100)
-    
+        dot(3,3 ,BLACK)    
 
 tim = Timer(0)
 tim.init(period=1000, mode=Timer.PERIODIC, callback=lambda t:blink())
