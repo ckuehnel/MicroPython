@@ -12,4 +12,4 @@ Hier können Sie ein Raspberry Pi HAT anschließen und die Peripherie des RP2040
 - Kommunikation - GPIO / UART / I2C / SPI
 - Abmessungen - 65 x 30 mm
 
-Unter https://ckmicropython.wordpress.com/2022/05/06/stackypi/ finden Sie einen Blogbeitrag zur Inbetriebnahme von StackyPi und dem Coral Environmental Sensor Board als Beispiel einer Periopherieerweiterung mit einem pHAT.
+Unter https://ckmicropython.wordpress.com/2022/05/06/stackypi/ finden Sie einen Blogbeitrag zur Inbetriebnahme von StackyPi und dem Coral Environmental Sensor Board als Beispiel einer Peripherieerweiterung mit einem pHAT.
